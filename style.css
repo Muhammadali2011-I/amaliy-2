@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 170px;
+}
+form{
+    background-color: white;
+    border: 3px solid pink ;
+}
+#bir{
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+}
+.otpravit{
+    border-radius: 6px;
+    width: 80px;
+    height: 30px;
+    background-color:rgb(222, 19, 195);
+    color: white;
+
+}
+.email{
+    margin-left: 10px;
+}
+.text{
+    margin-top: 25px;
+}
